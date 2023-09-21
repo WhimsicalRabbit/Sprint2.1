@@ -1,0 +1,16 @@
+{
+  "name": "sprint2.1",
+  "version": "1.0.0",
+  "description": "sprint2.1 Debouncing",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Engels Patiarroyo",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.6.3"
+  }
+}
