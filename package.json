@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "sprint2.1 Debouncing",
   "main": "index.js",
-  "type": "commonjs",
   "scripts": {
     "test": "jest"
   },
